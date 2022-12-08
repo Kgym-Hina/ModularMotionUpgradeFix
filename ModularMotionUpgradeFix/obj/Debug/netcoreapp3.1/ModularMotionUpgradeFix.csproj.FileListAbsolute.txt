@@ -1,0 +1,12 @@
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/bin/Debug/netcoreapp3.1/ModularMotionUpgradeFix.deps.json
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/bin/Debug/netcoreapp3.1/ModularMotionUpgradeFix.runtimeconfig.json
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/bin/Debug/netcoreapp3.1/ModularMotionUpgradeFix.runtimeconfig.dev.json
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/bin/Debug/netcoreapp3.1/ModularMotionUpgradeFix.dll
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/bin/Debug/netcoreapp3.1/ModularMotionUpgradeFix.pdb
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.csprojAssemblyReference.cache
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.AssemblyInfoInputs.cache
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.AssemblyInfo.cs
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.csproj.CoreCompileInputs.cache
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.dll
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.pdb
+/Volumes/Scarlet/Git/ModularMotionUpgradeFix/ModularMotionUpgradeFix/obj/Debug/netcoreapp3.1/ModularMotionUpgradeFix.genruntimeconfig.cache

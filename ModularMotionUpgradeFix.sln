@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ModularMotionUpgradeFix", "ModularMotionUpgradeFix\ModularMotionUpgradeFix.csproj", "{E4C0C943-232B-45C9-A86C-5A98B8D95730}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E4C0C943-232B-45C9-A86C-5A98B8D95730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4C0C943-232B-45C9-A86C-5A98B8D95730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4C0C943-232B-45C9-A86C-5A98B8D95730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4C0C943-232B-45C9-A86C-5A98B8D95730}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
