@@ -1,3 +1,3 @@
 # ModularMotionUpgradeFix
 
-Manually find the guid before and after update.
+Plz manually find the guid before and after update.
